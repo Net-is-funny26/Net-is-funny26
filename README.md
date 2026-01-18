@@ -21,7 +21,7 @@
   Brilliant College of Engineering, Hyderabad  
   _Pursuing (2029)_
 
-- **Diploma – TESDR (NSQF Level-4)**  
+- **CTS – TESDR (NSQF Level-4)**  
   National Skill Training Institute, Hyderabad  
   **GPA: 9.0**
 
