@@ -114,8 +114,6 @@
 - 🔗 LinkedIn: [linkedin.com/in/nethaji-goud-26rn](https://linkedin.com/in/nethaji-goud-26rn)
 
 ---
-📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Net-is-funny26&show_icons=true&theme=tokyonight)
 
 
