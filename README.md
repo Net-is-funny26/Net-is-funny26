@@ -1,18 +1,18 @@
 # Hi 👋, I'm Katikam Nethaji
 
-### ⚡ Electronics & Communication Engineer | IoT & PCB Design Enthusiast
-
-🔌 Passionate about electronics, embedded systems, and real-world problem solving  
-🚀 Building smart systems with microcontrollers, sensors, and IoT
+⚡ Electronics & Communication Engineer  
+🔌 IoT • Embedded Systems • PCB Design  
+🚀 Turning circuits into real-world solutions
 
 ---
 
-## 🌸 About Me
-- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering**
-- 🏫 Brilliant College of Engineering, Hyderabad
-- 🔧 Strong foundation in **circuit design, PCB design, and embedded systems**
-- 🏆 State-Level & National-Level **India Skills Competition (Electronics)** participant
-- 💡 Love working on **IoT, robotics, and automation projects**
+🌸 About Me
+
+- 🎓 B.Tech in Electronics & Communication Engineering  
+- 🏫 Brilliant College of Engineering, Hyderabad  
+- 🔧 Hands-on experience in **PCB design, circuit debugging & embedded systems**  
+- 🏆 State & National Level **India Skills Competition (Electronics)** participant  
+- 💡 Passionate about building **IoT, automation, and smart hardware systems**
 
 ---
 
@@ -45,6 +45,13 @@
 📅 May 2025 – Present  
 - Designing and troubleshooting PCB layouts  
 - Working with real-world electronic systems and tools
+
+  
+## 🧑‍💻 Freelance
+**Embedded Trainer – ITSAGE** 
+📅 December 2025 – Present
+-Teaching the Basic Electronics Concepts
+-Training & Mentoring b.tech final year students on embedded c,projects
 
 ---
 
